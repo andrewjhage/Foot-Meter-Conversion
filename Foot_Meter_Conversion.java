@@ -1,9 +1,3 @@
-/*Andrew Hage
- * 10/25/2022
- * Module 2.3 Foot to Meter Conversion
- * SDEV200
- */
-
 import java.util.Scanner;
 
 public class Foot_Meter_Conversion {
